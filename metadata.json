@@ -1,0 +1,7 @@
+{
+  "name": "Aether: Android Analysis & Transformation Platform",
+  "description": "A liberated, unrestricted Android runtime and application analysis platform for APK profiling, IR transformation, and AI-assisted modding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
